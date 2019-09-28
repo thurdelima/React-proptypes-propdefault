@@ -1,4 +1,4 @@
-# Rect-proptypes-propdefault
+# React-proptypes-propdefault
 
 Content project that works with proptypes, propdefault and state. Created by @rocketseat.
 
